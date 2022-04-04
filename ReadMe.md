@@ -11,4 +11,4 @@ Diagrama de Secuencia
 
 ![Image text](https://github.com/GabrielaAntolinez/Banda_Informatica/blob/main/Secuencia.png)
 
-El patron Decorador se convirtió en
+El patron Decorador se convirtió en Bridge
